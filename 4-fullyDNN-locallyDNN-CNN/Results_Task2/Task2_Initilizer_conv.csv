@@ -1,0 +1,11 @@
+initializer_name,random_normal,random_uniform,truncated_normal,zeros,ones,glorot_normal,glorot_uniform,he_normal,he_uniform,variance_scaling
+random_normal,9103,8425,8961,8071,7278,8321,8832,0,8454,0
+random_uniform,9275,0,8845,8086,8507,0,0,0,8935,0
+truncated_normal,8345,8433,8728,8036,7234,8171,9439,9458,0,0
+zeros,0,0,0,0,0,0,0,0,0,0
+ones,0,0,0,0,0,0,0,0,0,0
+glorot_normal,6834,5938,8014,7006,7817,6087,6654,8451,8047,7808
+glorot_uniform,6844,7394,5707,5243,8927,8873,8346,8567,9444,6383
+he_normal,6713,4966,4144,5505,6182,4733,5327,5379,6078,5489
+he_uniform,4798,6026,4845,4974,4958,5160,5659,5874,5613,5684
+variance_scaling,5916,5583,5732,6422,5193,6376,7340,6278,7406,5778

@@ -1,0 +1,11 @@
+initializer_name,random_normal,random_uniform,truncated_normal,zeros,ones,glorot_normal,glorot_uniform,he_normal,he_uniform,variance_scaling
+random_normal,7004,7033,8586,6926,5681,8685,7654,6535,7226,9414
+random_uniform,0,0,0,0,0,0,0,0,0,0
+truncated_normal,9876,0,9751,8368,8647,8271,9626,9832,9573,0
+zeros,0,0,0,0,0,0,0,0,0,0
+ones,0,0,0,0,0,0,0,0,0,0
+glorot_normal,0,0,0,0,0,0,0,0,0,0
+glorot_uniform,0,0,0,0,0,0,0,0,0,0
+he_normal,0,0,0,0,0,0,0,0,0,0
+he_uniform,0,0,0,0,0,0,0,0,0,0
+variance_scaling,0,0,0,0,0,0,0,0,0,0
