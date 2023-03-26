@@ -1,4 +1,4 @@
-Please see [this document] for the implementation details.
+Please see [this document](https://github.com/ZYblend/Deep-and-reinforcement--learning-demos/blob/main/7-RL-path-planning-tracing/term-report-Zheng-Zhou.pdf) for the implementation details.
 
 ### Results;
 - Loss Curve
