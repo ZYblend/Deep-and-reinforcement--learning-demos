@@ -5,6 +5,7 @@ from tensorflow.keras import layers
 import matplotlib.pyplot as plt
 from keras.models import Model
 from keras.layers.core import Reshape
+import os
 
 """
 ## Prepare the data
@@ -90,6 +91,8 @@ class My_network(object):
 
 ##################### pre-train a convolution network with accuracy bigger than 95% ####################################
 if __name__ == '__main__':
+    print("Num GPUs Available: ", len(tf.config.list_physical_devices('GPU')))
+    os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
     # Model / data parameters
     num_classes = 10
     input_shape = (28, 28, 1)
